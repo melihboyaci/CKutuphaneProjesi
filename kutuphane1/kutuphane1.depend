@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1705578186 source:c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"header.h"
+	"bookadd.h"
+	"getID.h"
+	"bookList.h"
+	"bookUpdate.h"
+	"bookSearch.h"
+	"userAdd.h"
+	"userList.h"
+	"userUpdate.h"
+	"userSearch.h"
+	"userBorrow.h"
+	"borrowBack.h"
+	"borrowList.h"
+	"bookRemove.h"
+	"userRemove.h"
+
+1705578163 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\menu.h
+
+1705576479 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\header.h
+
+1705563826 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\bookadd.h
+
+1705560063 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\getid.h
+
+1705564135 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\booklist.h
+
+1705509725 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\bookupdate.h
+
+1705564990 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\booksearch.h
+
+1705443291 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\useradd.h
+
+1705584088 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\userlist.h
+
+1705494855 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\userupdate.h
+
+1705444944 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\usersearch.h
+
+1705561493 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\userborrow.h
+
+1705561493 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\borrowback.h
+
+1705576883 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\borrowlist.h
+
+1705567934 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\bookremove.h
+
+1705585877 c:\users\melih\onedrive\masaüstü\kütüphane1\kutuphane1\userremove.h
+
